@@ -1,0 +1,11 @@
+{
+  "name": "weather-data-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch and process weather data",
+  "main": "src/usercode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
