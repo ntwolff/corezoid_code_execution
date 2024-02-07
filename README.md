@@ -13,4 +13,4 @@ This repository contains code for fetching and processing weather data.
 
 ## Usage
 
-- Modify `src/usercode.js` as the entry point for executing the application.
+- Modify `usercode.js` as the entry point for executing the application.
