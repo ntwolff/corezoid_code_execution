@@ -3,9 +3,7 @@ const { simplifyWeatherData } = require('./lib/dataProcessor');
 
 module.exports = (data) => {
     return fetchWeatherData(data)
-        .then(simplifyWeatherData)
-        .then(simplifiedData => {
-            data.res = simplifiedData;
+        .then(data => {
             return data;
         })
         .catch(error => {
