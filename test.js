@@ -1,8 +1,8 @@
 const usercode = require('./usercode.js');
 
 const data = {
-  lat: '40.7128', // latitude for New York, NY
-  lon: '-74.006' // longitude for New York, NY
+  lat: '41.8775', // latitude for Glen Ellyn, IL
+  lon: '-88.067' // longitude for Glen Ellyn, IL
 };
 
 usercode(data)
