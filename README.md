@@ -1,6 +1,6 @@
-# Weather Data Fetcher
+# Corezoid Code Execution
 
-This repository contains code for fetching and processing weather data.
+This repository contains code for fetching and processing weather data to help explore Corezoid.
 
 ## Structure
 
